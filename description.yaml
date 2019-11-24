@@ -1,1 +1,9 @@
-
+Tipo : Extensión para portátil Jupyter
+Compatibilidad : 3.x, 4.x, 5.x, 6.x
+Nombre : TranslateJN
+Main : main.js
+Enlace : README.md
+Descripción : |
+  Con una combinacion de teclas podremos abrir abri una funcionalidad que nos permita traducir las palabras.
+Parámetros :
+- ninguno
